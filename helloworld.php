@@ -1,3 +1,3 @@
 <?php
 
-echo "\n";
+echo "H\n";
